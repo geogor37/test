@@ -1,2 +1,2 @@
 Test text
-New line of text.
+Different text from before
